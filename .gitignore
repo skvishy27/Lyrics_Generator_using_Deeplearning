@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode
+.vscode
+
+# Data Folder
+input/
+
+# Model Folder
+models/
+
+# Resources Folder
+resources
