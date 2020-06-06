@@ -1,0 +1,2 @@
+# Lyrics_Generator_using_Deeplearning
+Implemented using LSTM
